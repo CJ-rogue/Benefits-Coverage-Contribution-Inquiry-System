@@ -9,14 +9,15 @@
 4. [License](#license)
 
 ## Introduction
-This windows form-based project calculates the SSS, Pag-Ibig, PhilHealth, and Tax contributions based on the provided monthly income.
+This windows form-based project, written in VB.NET and developed using Visual Studio 2022, calculates the SSS, Pag-Ibig, PhilHealth, and Tax contributions based on the provided monthly income. The application runs under the .NET Framework.
 
 ## How to Use
-
-1. Run the application.
-2. Enter the monthly income when prompted.
-3. The tool will calculate and display the contributions for SSS, Pag-Ibig, PhilHealth, and Tax.
-4. Review the results to understand the breakdown of deductions and net income.
+1. Open the project in Visual Studio 2022.
+2. Build the project.
+2. Run the application.
+3. Enter the monthly income when prompted.
+4. The tool will calculate and display the contributions for SSS, Pag-Ibig, PhilHealth, and Tax.
+5. Review the results to understand the breakdown of deductions and net income.
    
 ## Disclaimer
 This tool provides estimates and should not be considered as professional financial advice. Please consult with a financial advisor for accurate and personalized information.
