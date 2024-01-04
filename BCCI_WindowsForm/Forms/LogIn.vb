@@ -14,7 +14,7 @@
             Menu.Show()
 
             ' Close the login form
-            Me.Hide()
+            Me.Close()
         Else
             MessageBox.Show(vbCrLf & "Please agree to the Terms of Service and Privacy Policy to continue using this app." & vbCrLf, "Agreement Required", MessageBoxButtons.OK, MessageBoxIcon.Warning)
         End If
