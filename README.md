@@ -9,7 +9,10 @@
 4. [License](#license)
 
 ## Introduction
-This windows form-based project, written in VB.NET and developed using Visual Studio 2022, calculates the SSS, Pag-Ibig, PhilHealth, and Tax contributions based on the provided monthly income. The application runs under the .NET Framework.
+- This Windows Form-based project, written in VB.NET and developed using Visual Studio 2022.
+- It calculates the SSS, Pag-Ibig, PhilHealth, and Tax contributions based on the provided monthly income.
+- The application, designed for calculations specific to the Philippines, runs under the .NET Framework.
+
 
 ## How to Use
 1. Open the project in Visual Studio 2022.
