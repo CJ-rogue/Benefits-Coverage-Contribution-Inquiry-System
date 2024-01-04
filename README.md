@@ -4,25 +4,22 @@
 
 ## Table of Contents:
 1. [Introduction](#introduction)
-2. [Download Executable File](#Download-Executable-File)
-3. [Usage](#Usage)
+2. [Usage](#how-to-use)
+3. [Disclaimer](#disclaimer)
 4. [License](#license)
 
 ## Introduction
 This windows form-based project calculates the SSS, Pag-Ibig, PhilHealth, and Tax contributions based on the provided monthly income.
 
-## Download Executable File
-1. Download the Zip File: [Click Here](https://github.com/CJ-rogue/Calculator-using-Netbeans/releases/download/v1.0/MyCalculator.Jar.File.zip)
-1. Unzip the file
-2. Open dist folder
-3. Click MyCalculator to run the Executable Jar File
+## How to Use
 
-#### Note
-Make sure you have Java installed on your computer or run the JAR File from the command line using the following command:
-> java -jar MyCalculator.jar
-
-## Usage
-This calculator supports basic arithmetic operations: addition, subtraction, multiplication, and division. Use the C button to clear the screen.
+1. Run the application.
+2. Enter the monthly income when prompted.
+3. The tool will calculate and display the contributions for SSS, Pag-Ibig, PhilHealth, and Tax.
+4. Review the results to understand the breakdown of deductions and net income.
+   
+## Disclaimer
+This tool provides estimates and should not be considered as professional financial advice. Please consult with a financial advisor for accurate and personalized information.
 
 ## License
 This project is licensed under the terms of the [MIT License](LICENSE).
